@@ -24,7 +24,7 @@ python ./Infer/main.py --topic_list choose_a_topic_list  --data data_name
 Figure1 displays the TCSI-pp-MTL in summarization of privacy policy.
 
 ```
-![My image](./SummarizationByTCSI-pp-MTL.jpeg)
+![My image](./summarization-by-TCSI-pp-MTL.png )
 ```
 
 ## Update
