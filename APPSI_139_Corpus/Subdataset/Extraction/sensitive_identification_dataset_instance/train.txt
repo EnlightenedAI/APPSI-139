@@ -1,0 +1,90 @@
+2.Once the safety retention window elapses, we delete your data and only keep limited information for specified purposes, as laid out below:	0
+* Biographic and Demographic information such as your date of birth, gender, and time zone.	0
+We may also use such aggregate information to help advertisers target a specific audience (for example, users in a specific location, or whose video library contains certain types of videos).	0
+**Limitations** : **** You should be aware that although we will anonymize or otherwise de-identify your data where possible, we may retain certain personal data and other information after your account has been terminated or deleted as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.	0
+**Google Analytics and Advertising**	0
+_Additionally, the information we collect via the Service depends on the content and materials you use, includes:_	0
+* Right to access your personal data	0
+In addition to any information that you may provide to us, we and the third parties we work with may use a variety of technologies that automatically (or passively) when you use the Services.	0
+It is your sole responsibility to ensure non-infringement of third party rights (including privacy and publicity rights), compliance with the applicable laws while using Content Information related to AI-based features.	0
+* to process your registration, order, payment or to otherwise facilitate your use of the Websites or Mobile Apps; * to provide you with the Services, manage your account and provide you with customer support; * to send technical alerts, updates, security notifications, and administrative communications; * to verify your identity, investigate and prevent fraudulent activities, unauthorized access to our Services, and other illegal activities; * to manage registration, payments and your attendance to our events; and * to provide personal information to third parties as set out in this Privacy Policy.	0
+All Users that do not fall under the above 8.2 and 8.3, shall have the right to have their personal data erased or eliminated when, among other reasons, the data is no longer necessary for the purposes for which it was collected.	0
+We may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs.	0
+If you are not a registered Member or a Guest, please see our Non-Member Privacy Policy for further information about how we may collect and use your personal information, available [here](https://www.etsy.com/hk- en/legal/policy/non-member-privacy-policy/1146287590828).	0
+We may derive additional information or draw inferences about you based on the information we have collected from you directly, through your device, or through third parties, such as research agencies and data companies.	0
+We take protecting your personal information seriously and do our best to keep it safe.	0
+* **Right to data portability:** You have the right to receive a copy of your personal data in a structured, commonly used, and machine-readable format.	0
+Please note that the Services do not collect this information in the ordinary course; we only receive it, if you choose to provide it to us.	0
+When you interact with us on these platforms, we may process information, such as your username, profile picture, and any comments or posts you make related to Flo, for engagement purposes only.	0
+Such initiatives allow Users to select their tracking preferences for most of the advertising tools.	0
+When we detect a GPC signal from a browser, our Online Services are designed to treat the browser as opted out and to stop sharing personal information for certain targeted advertising purposes, in accordance with applicable laws.	0
+When you visit any of our services, our servers log your IP address, which is a number that is automatically assigned to the network your computer is part of.	0
+You also have the right to request that we transfer that personal information to another party.	0
+We may receive information about you contained in third-party user accounts when you use EA online Services on or through third-party gaming platforms, such as those listed below.	0
+This Policy may be amended in whole or in part, in any of its terms, at any time.	0
+We call these mixed audience Services.	0
+* **Analytics Providers.	0
+You can also send a letter to Data Protection at Miniclip SA, Rue des Beaux-Arts 8, 2000 Neuchatel, Switzerland.	0
+Arrive strives to conform to all of these laws and regulations to the best of its commercially reasonable ability, reflected in its internal policies and procedures centered around collection, use and disclosure of personal information.	0
+For example, we may share data with credit bureaus and similarly regulated entities, banks for device financing, and payment processors to help us provide you with the services you have requested.	0
+We will process your information with your consent, unless an exception applies.	0
+* Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes.	0
+* **Driving Event Information.	0
+* Withdraw consent .	0
+We may reject requests that are unreasonable or not required by law, including those that would be extremely impractical, could require disproportionate technical effort, or could expose us to operational risks such as enabling fraud.	0
+When you access our websites or play our games, we may also collect certain information automatically from you and/or your device in order to efficiently fulfilling our contractual obligations, better understand our users and be able to improve our services and your user experience, such as:	0
+When you’re on our Services, we use your activity—such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description—along with other information you’ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences.	0
+While we strive to protect information about you, no method of data transmission or storage is 100% secure, and we cannot ensure or warrant the security of such information.	0
+* Download and use our mobile application (Umax), or any other application of ours that links to this privacy notice	0
+These partners may use cookies and other tracking technologies to collect information about your activities across different websites and services to build a profile of your interests and provide you with relevant advertising ("targeted advertising").	0
+The personal information we may collect and process about you through the Services falls into the following general categories:	0
+In certain situations, SciPlay may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.	0
+Parents have the right to review their Child’s Personal Data; to have their Child’s Personal Data deleted; and to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us.	0
+* If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.	0
+We have set certain retention periods so that some data expires after a specific period of time.	0
+This may include requiring you to verify your identity.	0
+Except as set forth in the CCPA Privacy Notice with respect to Global Privacy Control (GPC), we do not respond to browser “Do Not Track” signals.	0
+For your safety and the safety of all our users, we may ask you to prove your identity before we give you access to your information or make any changes.	0
+GitHub will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.	0
+If you provide permission, you can change your mind and disable this permission at any time in your device settings.	0
+By using the Service, you agree to the collection and use of information in accordance with this policy.	0
+**When you interact with us, you authorize us to transfer your personal information outside of your home country and you acknowledge the risk that we may transfer your personal information to countries that may provide less protection than your home country’s privacy laws and we may not be able to prevent government authorities in some countries from accessing your personal information.**	0
+* Operate, analyze, improve, and develop our games and Services; * Undertake research and analysis to develop and demonstrate our technology, and to better understand our players; * Populate online leaderboards and enable online matchmaking; * Provide replays to you and other players via spectator modes; * Help you find your friends or tell your friends about an EA game or Service; * Facilitate sharing on social networks; * Manage and serve advertising in-game and on third-party platforms; * Measure the effectiveness and distribution of advertising, including understanding who engages with our Services and how they interact with our Services; * Measure the health of our Services; * Detect security incidents, protect against malicious, deceptive, fraudulent or illegal activity, and prosecute those responsible for that activity; * Set up and maintain accounts for which you register; * Provide game experiences that you may like, including personalizing your game experience; * Set up and facilitate loyalty programs; * Facilitate your gameplay on multiple devices and/or platforms, as applicable; * Identify, fix, and troubleshoot bugs or functionality errors; * Provide software updates; * Authenticate and activate your games and save game-play data, including progress; * Facilitate competitions and contests; * Perform audits, transactions, and other compliance activities; * Adhere to your preferences and to deliver content;	0
+.If we learn that we have collected personal information through the Service from a child without the consent of the child’s parent or guardian as required by law, we will comply with applicable legal requirements to delete the information.	0
+As permitted by applicable law, your continued use of the Services means that you accept these changes.	0
+It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them.	0
+This means that your personal information can be transferred to a third country, a territory or one or more specified sectors within that third country, or to the international organization where data protection and confidentiality regulations may not provide the same level of protection of a personal data as your country does.	0
+If you do not want us to collect, store, use or share your information in the ways described in this Privacy Policy, you should not play our games or use our Services.	0
+If you disable these cookies, you will experience less targeted advertising.	0
+In the preceding twelve (12) months, we have disclosed each category of personal information listed in Section 13(a), including the listed sensitive personal information, for one or more of the business purposes detailed in this Privacy Policy.	1
+If you are a California Resident, California law provides you with certain rights regarding your personal information, including the right to know about personal information collected, disclosed, or sold.	0
+Information our servers automatically collect when you access the Service, such as your native actions that are integral to the Service, including liking, re-blogging, or replying to a post, as well as other interactions with the Service and other users via server log files.	0
+**8.3 **Fomo retains Personal Information if the account is active or as needed to provide User the Service.	0
+1.To provide our Service	0
+If you participate in a promotion, we will use the contact information you give us to communicate with you about the promotion.	0
+* If you have any questions about this Privacy Policy, or wish to exercise your rights, see Section 11 for further information about how to contact us.	0
+The hosting provider, which might not be Spotify, manages these controls for the podcast.	0
+But no security measures can be 100% effective, and we cannot guarantee the security of your information, including against unauthorized intrusions or acts by third parties.	0
+* HEALOW gives citizens of the EU the opportunity to opt-out prior to disclosing Personal Information or using Personal Information for a purpose that is incompatible with the purpose for which it was originally collected or subsequently authorized by such individual.	0
+We share personal information with affiliated and unaffiliated service providers (including their service providers) to help us run our business and for their compliance purposes, including those that help us: (i) verify your identity or authenticate your identification documents, (ii) check information against public databases, (iii) conduct background checks, fraud prevention, security investigations, and risk assessments, (iv) perform product development, maintenance, and debugging, (v) allow the provision of the Airbnb Services through third-party platforms and software tools (e.g., through the integration with our APIs), (vi) provide customer service, advertising, or payments services, (vii) offer additional services you select, (viii) process, handle, or assess insurance claims or similar claims, or (ix) review, scan, and analyze communications on the Airbnb Platform for certain purposes (such as evidence of child exploitation).	0
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.	0
+* Cooperate with law enforcement and protect the rights, interests, safety, or property of T-Mobile and others.	0
+**** * How you interact with others on the platform, such as people you follow and people who follow you, metadata related to [_Encrypted Messages_](https://help.x.com/using-twitter/encrypted-direct-messages), and when you use [_Direct Messages_](https://help.x.com/using-twitter/direct-messages), including the contents of the messages, the recipients, and date and time of messages.	0
+We may use, provide access to, or disclose this network location data without additional, specific permission to provide and support our services.	0
+If we make material changes to this Privacy Policy, we may notify you by posting a notice on the Services, sending it via email to your email address you shared with us in the course of using the Services or through other appropriate communication channels.	0
+We share your personal data with third party applications when you tell us to do so.	0
+In connection with the activities above, we may conduct internal research and profiling based on your interactions on various Sites, content you submit to the Sites, and information obtained from third parties.	0
+· Billing information, such as your name, payment card number and payment account details;	0
+* To enforce our Terms of Use, other corporate policies, and industry standards; and	0
+We use your info to suggest other people who have similar interests.	0
+**CANADA RESIDENTS**	0
+You may also be able to manage third-party advertising preferences for some of the third parties we work with to serve advertising across the Internet by using the choices available at <https://www.networkadvertising.org/managing/opt_out.asp> and <https://www.aboutads.info/choices>.	0
+** You may request to delete or restrict access to your personal data.	0
+**1\.You become a Flo user, and with your consent, we start sharing the following personal data with AppsFlyer and its integrated partners to promote Flo’s services:**	0
+We combine this information across devices that you use.	0
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:	0
+** Contracting with vendors and service providers to perform services on our behalf or on their behalf, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services on behalf of the business or service provider.	0
+We provide this feedback directly to you, and may give you the ability to access it within your account.	0
+Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or Applications for a period of time.	0
+If you use these features, those third-party services' privacy policies and terms govern your actions on those sites and the information that those services collect.	0
+We offer a number of settings that allow you to tailor your experience within Discord.	0

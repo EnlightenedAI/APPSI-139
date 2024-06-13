@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3960,
+    "text": "First Party Collection Information",
+    "prefixKey": null,
+    "suffixKey": "f",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3961,
+    "text": "Permission Acquisition",
+    "prefixKey": null,
+    "suffixKey": "p",
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3962,
+    "text": "Third Party Sharing/ Disclosure",
+    "prefixKey": null,
+    "suffixKey": "t",
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3963,
+    "text": "Usage",
+    "prefixKey": null,
+    "suffixKey": "u",
+    "backgroundColor": "#653294",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3964,
+    "text": "Data Retention",
+    "prefixKey": null,
+    "suffixKey": "n",
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3965,
+    "text": "Data Security",
+    "prefixKey": null,
+    "suffixKey": "y",
+    "backgroundColor": "#AB149E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3966,
+    "text": "Edit/Control",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3967,
+    "text": "Contact Information",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3968,
+    "text": "Policy Change",
+    "prefixKey": null,
+    "suffixKey": "g",
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3969,
+    "text": "Cease Operation",
+    "prefixKey": null,
+    "suffixKey": "o",
+    "backgroundColor": "#194D33",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3970,
+    "text": "Specific Audiences",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3971,
+    "text": "Important",
+    "prefixKey": null,
+    "suffixKey": "i",
+    "backgroundColor": "#FB9E00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3972,
+    "text": "Risk",
+    "prefixKey": null,
+    "suffixKey": "r",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3973,
+    "text": "Sensitive",
+    "prefixKey": null,
+    "suffixKey": "s",
+    "backgroundColor": "#9F0500",
+    "textColor": "#ffffff"
+  }
+]

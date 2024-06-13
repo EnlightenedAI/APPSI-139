@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "text": "First Party Collection Information",
+    "prefixKey": null,
+    "suffixKey": "f",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 1,
+    "text": "Third Party Sharing/ Disclosure",
+    "prefixKey": null,
+    "suffixKey": "t",
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "Usage",
+    "prefixKey": null,
+    "suffixKey": "u",
+    "backgroundColor": "#653294",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "Data Retention",
+    "prefixKey": null,
+    "suffixKey": "n",
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "Data Security",
+    "prefixKey": null,
+    "suffixKey": "y",
+    "backgroundColor": "#AB149E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "Edit/Control",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "Contact Information",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "Policy Change",
+    "prefixKey": null,
+    "suffixKey": "g",
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 8,
+    "text": "Specific Audiences",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  }
+]
