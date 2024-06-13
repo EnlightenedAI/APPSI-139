@@ -19,8 +19,7 @@ You can be infer in the following ways:
 ```
 python ./Infer/main.py --topic_list choose_a_topic_list  --data data_name
 ```
-**(New)** We will upload all model parameters to [here](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main).
-
+**(New)** The mt5_mtl_model is currently hosted at the following [link](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). Additionally, we will be uploading all associated model parameters to this same location for easy access and reference.
 ### Effect Demonstration
 Figure1 displays the TCSI-pp-MTL in summarization of privacy policy.
 
