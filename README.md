@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ### How to use
 
-You can be infer in the following ways:
+You can be use in the following ways:
 ```
 python ./Infer/main.py --topic_list choose_a_topic_list  --data data_name
 ```
