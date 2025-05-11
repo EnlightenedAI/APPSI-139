@@ -20,7 +20,7 @@ You can be use in the following ways:
 ```
 python ./Infer/main.py --topic_list choose_a_topic_list  --data data_name
 ```
-**(New)** The mt5_mtl_model is currently hosted at the following [link](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). Additionally, we will be uploading all associated model parameters to this same location for easy access and reference.
+**(New)** The mt5_mtl_model (based on TCSI-pp-V2) is currently hosted at the following [link](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). Additionally, we will be uploading all associated model parameters to this same location for easy access and reference.
 ### Effect Demonstration
 Figure 1 displays the TCSI-pp-V2 in summarization of privacy policy.
 
