@@ -26,10 +26,5 @@ Figure 1 displays the TCSI-pp-V2 in summarization of privacy policy.
 
 ![Figure 1](Documents/Summarization_By_TCSI_pp_MTL.png)
 
-## Update
-We will continue to update this repository on Github. Please note that this process may take some time.
-
-
-
 
 
