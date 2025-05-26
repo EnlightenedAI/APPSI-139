@@ -6,22 +6,17 @@ The privacy policy is an important statement or agreement for users to understan
 👉 For more details, see the [Annotation Guidelines (PNG)](Documents/Annotation_Guidelines.png) or [PDF version](Documents/Annotation_Guidelines.pdf).
 <!-- [Paper](Documents/Annotation_Guidelines_Chinese_Version.pdf), [Appendix](Documents/Annotation_Guidelines_Chinese_Version.pdf) and -->
 ## How to Use
-### Environment
 
 Install project dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-### Train
-
 Train a model using the following command:
 ```
 python ./TCSI-pp-V2/[MODEL_NAME]_rewrite_ddp2_model.py
 ```
 
-### Inference
 Run inference with the following command:
 ```bash
 python ./Infer/main.py --topic_list choose_a_topic_list  --data privacy_path
