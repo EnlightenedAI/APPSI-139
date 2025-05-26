@@ -32,7 +32,7 @@ python ./TCSI-pp-V2/MODEL_NAME_rewrite_ddp2_model.py
 ### Effect Demonstration
 Figure 1 displays the TCSI-pp-V2 in summarization of privacy policy.
 
-![Figure 1](Documents/Summarization_By_TCSI_pp_V2.png)
+![Figure 1](Documents/TCSI_pp_V2.png)
 
 
 
