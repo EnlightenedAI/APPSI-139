@@ -7,7 +7,7 @@ def cut_sent(para):
     return para.split("\n")
 
 
-pp_name = '58同城'
+pp_name = 'TCSI_pp/preprocessing/sentence/pp_1'
 pp = open(f'./sentence/{pp_name}.txt', 'r', encoding='utf-8')
 data = cut_sent(pp.read())
 f = open(f"./out_sentences/{pp_name}.txt", 'w', encoding='utf-8')
