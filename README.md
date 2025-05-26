@@ -28,7 +28,7 @@ python ./Infer/main.py --topic_list choose_a_topic_list  --data data_name
 You can be train use TCSI-pp-V2 in the following ways:
 ```
 python ./TCSI-pp-V2/MODEL_NAME_rewrite_ddp2_model.py
-
+```
 ### Effect Demonstration
 Figure 1 displays the TCSI-pp-V2 in summarization of privacy policy.
 
