@@ -24,7 +24,9 @@ Run inference with the following command:
 python ./Infer/main.py --topic_list choose_a_topic_list  --data privacy_path
 ```
 
-✨ **new** Below is the Contextual Learning Instruction Template used in this experiment.
+✨ **new** Below is the **In-Context Learning Instruction Template** used in this experiment.
+
+```bash
 
 - **Task Description:** You are an expert in privacy policies. Please analyze the following privacy policy text sentence by sentence and summarize it in clear and simple language so that non-expert users can easily understand.
 
@@ -36,7 +38,7 @@ python ./Infer/main.py --topic_list choose_a_topic_list  --data privacy_path
   - Summary: "Insert Summary"
 - Based on the examples above, please summarize the following privacy policy text: "Insert Privacy Policy"
 - Summary:
-
+```
 
 ✨ **new** The mt5_mtl_model (based on TCSI-pp-V2) is currently hosted at the following [link](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). Additionally, we will be uploading all associated model parameters to this same location for easy access and reference.
 
