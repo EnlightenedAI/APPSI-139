@@ -1,57 +1,89 @@
-# APPSI-139: A Corpus of English Application Privacy Policy Summarization and Interpretation.
+# APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation
 
-## Introduction
+<div align="center">
 
-To address the challenges of understanding complex and legally dense privacy policies, we introduce APPSI-139, the first parallel corpus of English privacy policies annotated by legal experts, aimed at providing user-friendly interpretations. We also propose the TCSI-pp-V2 framework, a multi-task hybrid summarization model that effectively balances computational efficiency with accuracy. Based on this framework, we developed a privacy policy summarization system, which, according to evaluations, outperforms general-purpose models like GPT-4o in readability and reliability. This system helps users make more informed and rational privacy decisions, enhancing the comprehension and interpretation of privacy policies.
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2604.27550)
+[![Code License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
+[![Data License](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+</div>
 
-👉 The annotation work for this English privacy policy dataset was conducted by five experts, all of whom hold a master’s degree in law and possess official lawyer certifications. Prior to the project, all annotators underwent systematic training, including guideline walkthroughs, and annotated examples to ensure annotation quality and stability. For more details, see the [Annotation Guidelines (PNG)](Documents/Annotation_Guidelines.png) or [Annotation Examples ](https://github.com/EnlightenedAI/CAPP-130).
+## 📖 Introduction
 
-<!-- [Paper](Documents/Annotation_Guidelines_Chinese_Version.pdf), [Appendix](Documents/Annotation_Guidelines_Chinese_Version.pdf) and -->
+To address the challenges of understanding complex and legally dense privacy policies, we introduce **APPSI-139**, the first parallel corpus of English privacy policies annotated by legal experts, aimed at providing user-friendly interpretations. 
+
+We also propose the **TCSI-pp-V2** framework, a multi-task hybrid summarization model that effectively balances computational efficiency with accuracy. Evaluations show that our system outperforms general-purpose models (e.g., GPT-4o) in both readability and reliability. APPSI-139 empowers users to make more informed privacy decisions, significantly enhancing the comprehension and interpretation of digital privacy policies.
+
+> ⚖️ **Annotation Quality:** The annotation was conducted by five experts holding master’s degrees in law and official lawyer certifications. Annotators underwent systematic training and guideline walkthroughs to ensure high consistency and reliability. 
+> * [View Annotation Guidelines](./Documents/Annotation_Guidelines.png) | [Annotation Examples](https://github.com/EnlightenedAI/CAPP-130)
+
+---
 
 ## 🚀 News
 
-  * **[2026/04]** APPSI-139 has been accepted to **ACL 2026**.
-  * **[2025/10]** Core datasets and code have been uploaded and will be continuously maintained.
+* **[2026/04]** APPSI-139 has been accepted to **ACL 2026**.
+* **[2025/10]** Core datasets and code have been released and will be continuously maintained.
 
-## How to Use
+---
 
-Install project dependencies:
+## 🛠️ Quick Start
 
+### Dependencies
 ```bash
 pip install -r requirements.txt
+
 ```
-Train a model using the following command:
-```
+
+### Training
+
+Train the TCSI-pp-V2 model:
+
+```bash
 python ./TCSI-pp-V2/[MODEL_NAME]_rewrite_ddp2_model.py
+
 ```
 
-Run inference with the following command:
+### Inference
+
+Run inference on your privacy policy data:
+
 ```bash
-python ./Infer/main.py --topic_list choose_a_topic_list  --data privacy_path
+python ./Infer/main.py --topic_list [TOPIC_LIST] --data [PRIVACY_POLICY_PATH]
+
 ```
 
-✨ **new** Below is the **In-Context Learning Instruction Template** used in this experiment.
+---
 
-```bash
+## 💡 In-Context Learning Template
 
-- **Task Description:** You are an expert in privacy policies. Please analyze the following privacy policy text sentence by sentence and summarize it in clear and simple language so that non-expert users can easily understand.
+We utilize a structured instruction template to guide model performance:
 
-- **Example 1:**
-  - Privacy Policy Clause: "Insert Privacy Policy"
-  - Summary: "Insert Summary"
-- **Example 2:**
-  - Privacy Policy Clause: "Insert Privacy Policy"
-  - Summary: "Insert Summary"
-- Based on the examples above, please summarize the following privacy policy text: "Insert Privacy Policy"
+```text
+- Task Description: You are an expert in privacy policies. Analyze the provided privacy policy 
+  text sentence by sentence and summarize it in simple, non-expert friendly language.
+
+- Example 1: 
+  - Clause: "..." 
+  - Summary: "..."
+- Example 2: 
+  - Clause: "..." 
+  - Summary: "..."
+
+- Based on the examples above, summarize the following: "..."
 - Summary:
+
 ```
 
-✨ **new** The mt5_mtl_model (based on TCSI-pp-V2) is currently hosted at the following [link](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). Additionally, we will be uploading all associated model parameters to this same location for easy access and reference.
+---
 
-Figure shows a sample summarization result generated by TCSI-pp-V2:
-![Figure](./Documents/Tcsi-pp-V2.png)
+## 📊 Model & Data
 
+The `mt5_mtl_model` (based on TCSI-pp-V2) is hosted on [Hugging Face](https://huggingface.co/EnlightenedAI/APPSI-139/tree/main). All associated model parameters and checkpoints are available for download.
+
+**Sample Summarization Result:**
+
+
+---
 
 ## 📜 Citation
 
@@ -62,18 +94,15 @@ If you find this work helpful or use it in your research, please cite our paper:
   title={APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation},
   author={Pengyun Zhu and Qiheng Sun and Long Wen and Yanbo Wang and Yang Cao and Junxu Liu and Deyi Xiong and Jinfei Liu and Zhibo Wang and Kui Ren},
   year={2026},
-  url={https://api.semanticscholar.org/CorpusID:287915656}
+  url={[https://api.semanticscholar.org/CorpusID:287915656](https://api.semanticscholar.org/CorpusID:287915656)}
 }
+
 ```
 
-## 📌 Update
+---
 
-This repository is under continuous development.  
+## 📌 Maintenance
 
+This repository is under continuous development. Contributions and suggestions are welcome!
 
-
-
-
-
-
-
+```
