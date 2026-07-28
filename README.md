@@ -90,11 +90,27 @@ The `mt5_mtl_model` (based on TCSI-pp-V2) is hosted on [Hugging Face](https://hu
 If you find this work helpful or use it in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{Zhu2026APPSI139AP,
-  title={APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation},
-  author={Pengyun Zhu and Qiheng Sun and Long Wen and Yanbo Wang and Yang Cao and Junxu Liu and Deyi Xiong and Jinfei Liu and Zhibo Wang and Kui Ren},
-  year={2026},
-  url={[https://api.semanticscholar.org/CorpusID:287915656](https://api.semanticscholar.org/CorpusID:287915656)}
+@inproceedings{zhu-etal-2026-appsi,
+    title = "{APPSI}-139: A Parallel Corpus of {E}nglish Application Privacy Policy Summarization and Interpretation",
+    author = "Zhu, Pengyun  and
+      Sun, Qiheng  and
+      Wen, Long  and
+      Wang, Yanbo  and
+      Cao, Yang  and
+      Liu, Junxu  and
+      Xiong, Deyi  and
+      Liu, Jinfei  and
+      Wang, Zhibo  and
+      Ren, Kui",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.168/",
+    doi = "10.18653/v1/2026.acl-long.168",
+    pages = "3681--3706",
+    ISBN = "979-8-89176-390-6"
 }
 
 ```
